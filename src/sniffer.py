@@ -1,5 +1,5 @@
 """Sniffer (v2) 
-Usa scapy 
+Use scapy 
 """
 import time
 from collections import defaultdict
