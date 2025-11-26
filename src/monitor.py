@@ -1,5 +1,4 @@
-"""Monitor (v3) - integra whitelist/blacklist, logging e um modo 'dry-run' para ambientes sem root.
-Este script demonstra a versão mais madura: leitura de arquivos, aplicação de bloqueios (comentados) e logs.
+"""Monitor (v3) 
 """
 import os
 import time
