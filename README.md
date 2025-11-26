@@ -101,4 +101,4 @@ Carlos Daniel da Silva Alencar
 
 📖 Licença
 
-Este projeto está distribuído sob [especifique a licença, ex: MIT] — veja o arquivo LICENSE para detalhes.
+Este projeto está distribuído sob MIT — veja o arquivo LICENSE para detalhes.
