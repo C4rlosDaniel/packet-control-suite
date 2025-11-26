@@ -1,5 +1,5 @@
 # Network Security Toolkit
-
+ 
 Um repositório demonstrando uma evolução prática de ferramentas simples de segurança de rede (ferramentas educativas / POC).
 Projetado para empresas mostrarem um pipeline de evolução: **simulador de firewall → detector por taxa de pacotes → gestor com listas (whitelist/blacklist)**.
 
