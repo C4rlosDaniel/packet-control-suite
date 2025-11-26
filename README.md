@@ -89,7 +89,8 @@ Python 3.x
 
 Bibliotecas listadas no requirements.txt
 
-## ⚠️ Caso utilize funcionalidades de sniffing ou manipulação de pacotes, execute com privilégios elevados (ex: sudo) ou como administrador, conforme o sistema operacional.
+## ⚠️ Atenção Para o Uso do Código
+Caso utilize funcionalidades de sniffing ou manipulação de pacotes, execute com privilégios elevados (ex: sudo) ou como administrador, conforme o sistema operacional.
 
 ## 👨‍💻 Autor & Contato
 
