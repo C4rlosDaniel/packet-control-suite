@@ -42,8 +42,8 @@ packet-control-suite/
 │   ├── firewall.py
 │   ├── monitor.py
 │   ├── sniffer.py
-│   ├── acl.py             # Whitelist / blacklist e controle de acesso
-│   └── logger.py          # Logging estruturado
+│                   # Whitelist / blacklist e controle de acesso
+│                   # Logging estruturado
 ├── docs/           # Documentação adicional
 ├── tests/          # Testes unitários / de integração
 └── main.py         # Script principal para rodar a suíte
