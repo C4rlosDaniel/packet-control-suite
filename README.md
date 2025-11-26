@@ -3,6 +3,19 @@
 Conjunto de ferramentas modulares para monitoramento, filtragem e análise de tráfego de rede — com firewall simulado, sniffer, whitelist/blacklist e muito mais. Ideal para estudos, testes de segurança ou aplicações práticas em redes.
 
 ---
+## 📸 Demonstração
+## Primeiro código no terminal
+
+<img width="1536" height="1024" alt="type1" src="https://github.com/user-attachments/assets/ac048bdd-d7fb-4447-9155-c76aa08e7507" />
+
+## Segundo código no terminal
+
+<img width="1233" height="636" alt="type 2" src="https://github.com/user-attachments/assets/357f4072-0ccb-4d19-8f37-df8d1a3394ad" />
+
+## Terceiro código no terminal
+
+<img width="581" height="289" alt="type 3" src="https://github.com/user-attachments/assets/c5d9fcbc-13aa-4b0e-819a-2fad82a7a464" />
+
 
 ## 🚀 Funcionalidades Principais
 
