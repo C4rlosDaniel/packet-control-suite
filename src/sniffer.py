@@ -1,5 +1,5 @@
-"""Sniffer (v2) - detecta IPs com taxa alta de pacotes em intervalos e sinaliza.
-Usa scapy (requer root para captura ao vivo).
+"""Sniffer (v2) 
+Usa scapy 
 """
 import time
 from collections import defaultdict
@@ -9,7 +9,7 @@ except Exception:
     sniff = None
     IP = None
 
-THRESHOLD = 40  # pacotes por intervalo
+THRESHOLD = 40  
 
 def packet_callback_factory(packet_count, blocked_ips, start_time):
     def packet_callback(packet):
