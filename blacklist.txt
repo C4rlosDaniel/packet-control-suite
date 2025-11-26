@@ -1,0 +1,2 @@
+# Exemplo de blacklist - ips bloqueados automaticamente
+192.168.1.200
