@@ -1,6 +1,5 @@
-"""Firewall simulator / rule checker (v1)
-Este módulo implementa uma verificação simples de regras locais. Útil para demonstração.
-"""
+#Firewall simulator / rule checker (v1)
+
 
 from typing import Dict
 
